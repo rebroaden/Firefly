@@ -71,11 +71,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"Democracy is the worst form of government, except for all the others that have been tried.",
+				"Life is allowing yourself.Allowing yourself to step on fire, shed tears on bloodied routes.",
 				"Pain is the other side of happiness. If you wish to have the one, you cannot abandon the other in this world.",
 				"The world is vast and wide—don't lose yourself in sorrow's corner.",
 				"Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
-				"Life is allowing yourself.Allowing yourself to step on fire, shed tears on bloodied routes.",
+				"Democracy is the worst form of government, except for all the others that have been tried.",
 				"白毛赛高！",
 			],
 			// 主页横幅副标题字体大小
