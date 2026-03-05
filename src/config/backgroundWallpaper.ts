@@ -75,8 +75,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				"Pain is the other side of happiness. If you wish to have the one, you cannot abandon the other in this world.",
 				"The world is vast and wide—don't lose yourself in sorrow's corner.",
 				"Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
-				"Forever wading into the endless river.",
-				"最喜欢白毛了！",
+				"Life is allowing yourself.Allowing yourself to step on fire, shed tears on bloodied routes.",
+				"白毛赛高！",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
