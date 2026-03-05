@@ -66,17 +66,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Aether Drift",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"Democracy is the worst form of government, except for all the others that have been tried.",
+				"Pain is the other side of happiness. If you wish to have the one, you cannot abandon the other in this world.",
+				"The world is vast and wide—don't lose yourself in sorrow's corner.",
+				"Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
+				"Forever wading into the endless river.",
+				"最喜欢白毛了！",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -103,15 +103,15 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "X - Nekojira",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "X - Nekojira",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/users/108801776",
+				desktop: "https://x.com/Nekojira",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
-				mobile: "https://www.pixiv.net/users/42715864",
+				mobile: "https://x.com/Nekojira",
 			},
 		},
 		// 横幅导航栏配置
