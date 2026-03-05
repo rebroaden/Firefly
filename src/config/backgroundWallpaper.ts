@@ -86,11 +86,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				// 打字机关闭 → 每次刷新随机显示一条副标题
 				enable: true,
 				// 打字速度（毫秒）
-				speed: 150,
+				speed: 50,
 				// 删除速度（毫秒）
 				deleteSpeed: 50,
 				// 完全显示后的暂停时间（毫秒）
-				pauseTime: 2000,
+				pauseTime: 4000,
 			},
 		},
 		// 图片来源
