@@ -21,6 +21,14 @@ export const galleryConfig: GalleryConfig = {
 			date: "2026-03-07",
 			tags: ["nekojira", "白毛"],
 		},
+		{
+			id: "nachoneko",
+			name: "甘城",
+			description: "一些二创",
+			// location: "崩坏：星穹铁道",
+			date: "2026-03-07",
+			tags: ["甘城"],
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
