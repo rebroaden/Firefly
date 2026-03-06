@@ -19,7 +19,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	];
 
 	// 友链
-	// links.push(LinkPreset.Friends);
+	links.push(LinkPreset.Friends);
 
 	// 根据配置决定是否添加留言板，在siteConfig关闭pages.guestbook时导航栏不显示留言板
 	if (siteConfig.pages.guestbook) {
@@ -55,7 +55,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	// 自定义导航栏链接,并且支持多级菜单
-	// links.push({
+	links.push({
 		name: "链接",
 		url: "/links/",
 		icon: "material-symbols:link",
