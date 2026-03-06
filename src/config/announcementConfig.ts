@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "Where possibilities begin.",
+	content: "二十年后会令你失望的，不是你曾做过的事，而是不曾做过的，所以扬帆从安全的港湾出发，乘风而行，去探索、梦想、发现。",
 
 	// 是否允许用户关闭公告
 	closable: true,
