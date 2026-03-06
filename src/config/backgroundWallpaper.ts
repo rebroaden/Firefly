@@ -75,7 +75,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				"Pain is the other side of happiness. If you wish to have the one, you cannot abandon the other in this world.",
 				"The world is vast and wide—don't lose yourself in sorrow's corner.",
 				"Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
-				"Democracy is the worst form of government, except for all the others that have been tried.",
+				"An eggplant, a kitten, a tomato rich in antioxidants.",
 				"白毛赛高！",
 			],
 			// 主页横幅副标题字体大小
