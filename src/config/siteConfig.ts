@@ -10,7 +10,7 @@ export const siteConfig: SiteConfig = {
 	title: "Ritsura",
 
 	// 站点副标题
-	subtitle: "Where possibilities begin",
+	subtitle: "Aether Drift",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
@@ -21,12 +21,9 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
-		"Fuwari",
 		"Astro",
 		"ACGN",
 		"博客",
-		"技术博客",
 		"静态博客",
 	],
 
