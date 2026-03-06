@@ -27,12 +27,12 @@ export const profileConfig: ProfileConfig = {
 			url: "https://qm.qq.com/q/4cTDLpKHxS",
 			showName: false,
 		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/rebroaden",
-			showName: false,
-		},
+		// {
+			// name: "GitHub",
+			// icon: "fa7-brands:github",
+			// url: "https://github.com/rebroaden",
+			// showName: false,
+		// },
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
