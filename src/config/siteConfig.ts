@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Aether Drift",
 
 	// 站点 URL
-	site_url: "https://firefly-zeta-five.vercel.app/",
+	site_url: "https://ritsura.vercel.app/",
 
 	// 站点描述
 	description:
