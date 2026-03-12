@@ -6,5 +6,6 @@ description: 去年生日的小玩意
 tags: []
 category: 日常
 draft: false
+image: ./images/nacho.jpg
 ---
 ![nacho](./images/nacho.jpg)
