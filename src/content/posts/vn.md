@@ -5,7 +5,7 @@ pinned: false
 tags: []
 category: 文章
 draft: false
-image: ./images/cg_ts03_01.png
+image: ./images/xb.jpg
 ---
 
 如果你写过纯文字小说，就会知道能控制读者的阅读速度，能用音乐调动读者的情绪，能用画面减少文字表达的缺失，是一件多么愉快的事情。换句话来说，VN仍然是小说，仍然以文字为核心，只是相对更丰富。
