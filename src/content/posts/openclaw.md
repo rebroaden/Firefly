@@ -1,5 +1,5 @@
 ---
-title: openclaw的最大收益者恐怕是买二手mac mini的人
+title: openclaw的最大受益者恐怕是买二手mac mini的人
 published: 2026-03-19
 pinned: false
 tags: []
