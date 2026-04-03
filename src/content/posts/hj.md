@@ -7,3 +7,5 @@ category: 日常
 draft: false
 image: ./images/hj.jpg
 ---
+![](./images/g03.jpg)
+![](./images/g04.jpg)
