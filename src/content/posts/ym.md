@@ -4,7 +4,7 @@ published: 2026-04-25
 pinned: false
 tags: []
 category: 文章
-draft: false
+draft: true
 ---
 
 看到一个说法，写作就是在操纵读者。
