@@ -16,9 +16,7 @@ export const galleryConfig: GalleryConfig = {
 		{
 			id: "nekojira",
 			name: "猫鲸",
-			description: "oc缇娅",
-			date: "2026-03-07",
-			tags: ["nekojira", "白毛"],
+			tags: ["白毛"],
 		},
 		{
 			id: "nachoneko",
