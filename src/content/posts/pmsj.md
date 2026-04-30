@@ -36,3 +36,4 @@ Gemini说那张商业稿明显不如我做的。
 
 这个结论还会怎么变，我也不知道。
 
+[GPT做的平面设计](https://ritsura.com/gallery/pmsj)
