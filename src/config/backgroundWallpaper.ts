@@ -66,7 +66,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"Life is allowing yourself.Allowing yourself to step on fire, shed tears on bloodied routes.",
+				"Not all prayers seek answers. Some are offerings.",
 				"Pain is the other side of happiness. If you wish to have the one, you cannot abandon the other in this world.",
 				"The world is vast and wide—don't lose yourself in sorrow's corner.",
 				"Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
