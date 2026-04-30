@@ -17,7 +17,6 @@ export const galleryConfig: GalleryConfig = {
 			id: "nekojira",
 			name: "猫鲸",
 			description: "oc缇娅",
-			// location: "崩坏：星穹铁道",
 			date: "2026-03-07",
 			tags: ["nekojira", "白毛"],
 		},
@@ -25,9 +24,13 @@ export const galleryConfig: GalleryConfig = {
 			id: "nachoneko",
 			name: "甘城",
 			description: "一些二创",
-			// location: "崩坏：星穹铁道",
 			date: "2026-03-07",
 			tags: ["甘城"],
+		},
+		{
+			id: "pmsj",
+			name: "平面设计",
+			date: "2026-04-30",
 		},
 	],
 
