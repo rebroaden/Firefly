@@ -23,14 +23,10 @@ export const galleryConfig: GalleryConfig = {
 		{
 			id: "nachoneko",
 			name: "甘城",
-			description: "一些二创",
-			date: "2026-03-07",
-			tags: ["甘城"],
 		},
 		{
 			id: "pmsj",
 			name: "平面设计",
-			date: "2026-04-30",
 		},
 	],
 
