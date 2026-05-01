@@ -91,7 +91,7 @@ image: ./images/xss01.png
 
 这就很难得。
 
-![其实是省成本，对吧](./images/xss02.png)
+![](./images/xss02.png)
 
 
 
