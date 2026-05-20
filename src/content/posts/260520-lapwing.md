@@ -7,9 +7,6 @@ category: 写作
 draft: false
 ---
 
-
-# Lapwing
-
 ## 一
 
 陈宇在晚饭时刷到了一条新闻。
