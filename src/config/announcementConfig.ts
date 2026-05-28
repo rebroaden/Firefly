@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "二十年后会令你失望的，不是你曾做过的事，而是不曾做过的，所以扬帆从安全的港湾出发，乘风而行，去探索、梦想、发现。",
+	content: "当我无法安慰你，或你不再能关怀我，请千万记住，在我们菲薄的流年里，曾有十二只白鹭鸶飞过秋天的湖泊。",
 
 	// 是否允许用户关闭公告
 	closable: true,
