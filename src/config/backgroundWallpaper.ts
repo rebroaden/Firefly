@@ -67,7 +67,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"Not all prayers seek answers. Some are offerings.",
-				"Pain is the other side of happiness. If you wish to have the one, you cannot abandon the other in this world.",
+				"Omnia aliena sunt, tempus tantum nostrum est.",
 				"The world is vast and wide—don't lose yourself in sorrow's corner.",
 				"Be patient toward all that is unsolved in your heart and try to love the questions themselves.",
 				"An eggplant, a kitten, a tomato rich in antioxidants.",
