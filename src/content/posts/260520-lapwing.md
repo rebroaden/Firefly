@@ -4,7 +4,7 @@ published: 2026-05-20
 pinned: false
 tags: [科幻, 短篇]
 category: 写作
-draft: false
+draft: true
 ---
 
 ## 一
